@@ -1,0 +1,21 @@
+# MPLAB X build output
+build/*/
+dist/
+nbproject/private/
+*.o
+*.p1
+*.d
+*.map
+*.lst
+*.sym
+
+# Proteus backups/autosaves
+*.pdsbak
+*.bak
+Backup*
+Last Loaded*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
